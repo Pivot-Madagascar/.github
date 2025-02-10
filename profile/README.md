@@ -6,11 +6,11 @@ Pivot's Research and Digital Health teams manage multiple data platforms central
 
 ## On-going projects
 
-📈 Predicting infectious diseases via environment and climate (PRIDE-C) 📈
+### 📈 Predicting infectious diseases via environment and climate (PRIDE-C)
 
-- disease forecasting package linking DHIS2 and R [website](https://pivot-madagascar.github.io/PRIDEC-package/) | [code](https://github.com/Pivot-Madagascar/PRIDEC-package)
+- disease forecasting package linking DHIS2 and R | [website](https://pivot-madagascar.github.io/PRIDEC-package/) | [code](https://github.com/Pivot-Madagascar/PRIDEC-package)
 
-🦟 Surveillance and control of malaria at the local level using e-health platforms (SMALLER) 🦟
+### 🦟 Surveillance and control of malaria at the local level using e-health platforms (SMALLER) 🦟
 
-- Malaria Early Warning System [dashboard](https://smaller.pivot-dashboard.org/) | [code](https://gitlab.com/pivot-sci-apps/smaller-shiny) | [article](https://doi.org/10.1186/s12936-025-05266-0)
-- Local Larval Source Management [dashboard](https://lsm.pivot-dashboard.org/) | [preprint](https://www.researchsquare.com/article/rs-5181799/v1)
+- Malaria Early Warning System | [dashboard](https://smaller.pivot-dashboard.org/) | [code](https://gitlab.com/pivot-sci-apps/smaller-shiny) | [article](https://doi.org/10.1186/s12936-025-05266-0)
+- Local Larval Source Management | [dashboard](https://lsm.pivot-dashboard.org/) | [preprint](https://www.researchsquare.com/article/rs-5181799/v1)
