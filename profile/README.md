@@ -8,7 +8,8 @@ Pivot's Research and Digital Health teams manage multiple data platforms central
 
 ### 📈 Predicting infectious diseases via environment and climate (PRIDE-C)
 
-- disease forecasting package linking DHIS2 and R | [website](https://pivot-madagascar.github.io/PRIDEC-package/) | [code](https://github.com/Pivot-Madagascar/PRIDEC-package)
+- R package to forecast infectious diseases from a DHIS2 instance | [website](https://pivot-madagascar.github.io/PRIDEC-package/) | [code](https://github.com/Pivot-Madagascar/PRIDEC-package)
+- DHIS2 application to visualize disease forecasts and climate data in Ifanadiana District | [code](https://gitlab.com/pivot-dev/PRIDE-C/pride-c-app)
 
 ### 🦟 Surveillance and control of malaria at the local level using e-health platforms (SMALLER) 
 
