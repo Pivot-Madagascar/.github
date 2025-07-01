@@ -1,6 +1,6 @@
 # Pivot Madagascar
 
-Pivot is a non-governmental organization that combines accessible and comprehensive health care services with rigorous scientific research to support the existing public health system in rural Madagascar 🇲🇬. We work in the Vatovavy Region, serving over 1 million people, where we partner closely with the Madagascar Ministry of Health to strengthen health system resources at the community, primary health center, and district hospital levels. For more information, see [Pivot's website](https://www.pivotworks.org/).
+Pivot is a non-governmental organization that combines accessible and comprehensive health care services with rigorous scientific research to support the existing public health system in rural Madagascar 🇲🇬. We work in the Vatovavy Region, serving over 875,000 people, where we partner closely with the Madagascar Ministry of Health to strengthen health system resources at the community, primary health center, and district hospital levels. For more information, see [Pivot's website](https://www.pivotworks.org/).
 
 Pivot's Research and Digital Health teams manage multiple data platforms central to adapting, improving, and scaling interventions. In addition, we develop applications to share results of scientific studies and improve local decision making.
 
