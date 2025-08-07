@@ -10,6 +10,8 @@ Pivot's Research and Digital Health teams manage multiple data platforms central
 
 - R package to forecast infectious diseases from a DHIS2 instance | [website](https://pivot-madagascar.github.io/PRIDEC-package/) | [code](https://github.com/Pivot-Madagascar/PRIDEC-package)
 - DHIS2 application to visualize disease forecasts and climate data in Ifanadiana District | [code](https://gitlab.com/pivot-dev/PRIDE-C/pride-c-app)
+- Docker image to run PRIDE-C forecasting workflow using PRIDE-C R package on any DHIS2 instance | [code](https://github.com/Pivot-Madagascar/pridec-docker)
+- Pivot's customized PRIDE-C production workflow | [code](https://github.com/Pivot-Madagascar/pridec-pivot-update)
 
 ### 🦟 Surveillance and control of malaria at the local level using e-health platforms (SMALLER) 
 
